@@ -1,4 +1,4 @@
-package org.qa.gitCommands;
+package Tests;
 
 public class Test1 {
 
